@@ -27,5 +27,6 @@ int main()
 	thread.join();
 
 	std::cout<<"Add Something"<<std::endl;
+	std::cout<<"Add Something change by newBranch"<<std::endl;
 	return 0;
 }
