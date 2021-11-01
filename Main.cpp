@@ -26,5 +26,6 @@ int main()
 
 	thread.join();
 
+	std::cout<<"Add Something"<<std::endl;
 	return 0;
 }
