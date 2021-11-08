@@ -7,7 +7,7 @@
 ## 정선이 메롱 
 void PrintMessage(const std::string& message, std::chrono::seconds delay)
 {
-	std::cout << "Sleep now...";
+	std::cout << "rururururu..";
 
 	auto end = std::chrono::high_resolution_clock::now() + delay;
 
